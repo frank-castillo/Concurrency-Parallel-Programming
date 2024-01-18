@@ -1,0 +1,22 @@
+Analyzing: bible.txt
+the: 72271 occurrences.
+and: 46446 occurrences.
+of: 40346 occurrences.
+to: 16539 occurrences.
+that: 15553 occurrences.
+in: 14504 occurrences.
+he: 11377 occurrences.
+shall: 10872 occurrences.
+unto: 10056 occurrences.
+his: 10017 occurrences.
+for: 8656 occurrences.
+they: 8522 occurrences.
+be: 8139 occurrences.
+is: 8060 occurrences.
+with: 7377 occurrences.
+not: 7052 occurrences.
+all: 6312 occurrences.
+thou: 5475 occurrences.
+was: 5393 occurrences.
+it: 5242 occurrences.
+Time in milliseconds it took to process the book: 155

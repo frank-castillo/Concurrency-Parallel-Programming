@@ -1,0 +1,22 @@
+Analyzing: MistakeOfChristopherColombus.txt
+the: 331 occurrences.
+of: 166 occurrences.
+to: 124 occurrences.
+and: 100 occurrences.
+in: 89 occurrences.
+Project: 79 occurrences.
+you: 79 occurrences.
+or: 77 occurrences.
+with: 53 occurrences.
+Gutenberg-tm: 53 occurrences.
+that: 51 occurrences.
+this: 49 occurrences.
+is: 43 occurrences.
+for: 39 occurrences.
+any: 36 occurrences.
+on: 35 occurrences.
+was: 35 occurrences.
+work: 33 occurrences.
+The: 32 occurrences.
+not: 32 occurrences.
+Time in milliseconds it took to process the book: 4

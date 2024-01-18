@@ -1,0 +1,22 @@
+Analyzing: ShadowEater.txt
+the: 639 occurrences.
+of: 389 occurrences.
+and: 306 occurrences.
+in: 222 occurrences.
+to: 142 occurrences.
+my: 136 occurrences.
+that: 112 occurrences.
+is: 92 occurrences.
+with: 84 occurrences.
+Project: 79 occurrences.
+or: 78 occurrences.
+The: 72 occurrences.
+at: 61 occurrences.
+you: 61 occurrences.
+have: 55 occurrences.
+from: 54 occurrences.
+Gutenberg-tm: 53 occurrences.
+not: 52 occurrences.
+on: 51 occurrences.
+this: 50 occurrences.
+Time in milliseconds it took to process the book: 8

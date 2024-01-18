@@ -1,0 +1,22 @@
+Printing out the most used words in all books: 
+the: 82486 occurrences.
+and: 53236 occurrences.
+of: 46322 occurrences.
+to: 19975 occurrences.
+that: 17102 occurrences.
+in: 16913 occurrences.
+he: 13839 occurrences.
+his: 12520 occurrences.
+shall: 11249 occurrences.
+for: 10078 occurrences.
+unto: 10063 occurrences.
+they: 9543 occurrences.
+with: 9057 occurrences.
+is: 8916 occurrences.
+be: 8722 occurrences.
+not: 7968 occurrences.
+all: 7071 occurrences.
+was: 6606 occurrences.
+it: 6120 occurrences.
+their: 5752 occurrences.
+Time in milliseconds for program to complete: 169

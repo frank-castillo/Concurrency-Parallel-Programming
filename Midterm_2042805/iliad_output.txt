@@ -1,0 +1,22 @@
+Analyzing: iliad.txt
+the: 9573 occurrences.
+and: 6481 occurrences.
+of: 5584 occurrences.
+to: 3291 occurrences.
+his: 2487 occurrences.
+he: 2448 occurrences.
+in: 2184 occurrences.
+with: 1593 occurrences.
+that: 1434 occurrences.
+you: 1400 occurrences.
+for: 1369 occurrences.
+him: 1283 occurrences.
+as: 1210 occurrences.
+was: 1183 occurrences.
+they: 1004 occurrences.
+on: 981 occurrences.
+from: 974 occurrences.
+son: 889 occurrences.
+but: 889 occurrences.
+had: 884 occurrences.
+Time in milliseconds it took to process the book: 47
